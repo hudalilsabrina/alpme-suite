@@ -1,0 +1,7 @@
+accounts.txt
+keys.txt
+farm.log
+data/
+__pycache__/
+*.pyc
+.env
